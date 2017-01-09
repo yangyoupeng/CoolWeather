@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="PROJECT" charset="UTF-8" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yyp/coolweather/db/City.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yyp/coolweather/db/County.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yyp/coolweather/db/Province.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yyp/coolweather/util/HttpUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
